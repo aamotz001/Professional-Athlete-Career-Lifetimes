@@ -1,2 +1,11 @@
 # Professional-Athlete-Career-Lifetimes
-Final Project Repo
+
+Introduction/ why topic is selected
+
+## Questions to answer
+
+## Datasources/Background information
+
+## Hypothesis
+
+## Method

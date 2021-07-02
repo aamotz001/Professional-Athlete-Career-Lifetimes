@@ -1,2 +1,2 @@
-# Using Machine Learning to Predict Professional Athlete Career Lifetimes
+# Machine Learning Prediction of Professional Athlete Career Lifetime
 Final Project Repo

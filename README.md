@@ -24,48 +24,48 @@
 
 ### Building A Basic Neural Network (Sample Code for Later Use)
 
-#### Import our dependencies
+```
+# Import our dependencies
 import pandas as pd
 import matplotlib as plt
 from sklearn.datasets import make_blobs
 import sklearn as skl
 import tensorflow as tf
 
-#### Generate dummy dataset
+# Generate dummy dataset
 X, y = make_blobs(n_samples=1000, centers=2, n_features=2, random_state=78)
 
-#### Creating a DataFrame with the dummy data
+# Creating a DataFrame with the dummy data
 df = pd.DataFrame(X, columns=["Feature 1", "Feature 2"])
 
 df["Target"] = y
 
-#### Plotting the dummy data
+# Plotting the dummy data
 df.plot.scatter(x="Feature 1", y="Feature 2", c="Target", colormap="winter")
 
-#### Use sklearn to split dataset
+# Use sklearn to split dataset
 from sklearn.model_selection import train_test_split
-
 X_train, X_test, y_train, y_test = train_test_split(X, y, random_state=78)
 
-#### Create scaler instance
+# Create scaler instance
 X_scaler = skl.preprocessing.StandardScaler()
 
-#### Fit the scaler
+# Fit the scaler
 X_scaler.fit(X_train)
 
-#### Scale the data
+# Scale the data
 X_train_scaled = X_scaler.transform(X_train)
-
 X_test_scaled = X_scaler.transform(X_test)
 
-#### Create the Keras Sequential model
+# Create the Keras Sequential model
 nn_model = tf.keras.models.Sequential()
 
-#### Add our first Dense layer, including the input layer
+# Add our first Dense layer, including the input layer
 nn_model.add(tf.keras.layers.Dense(units=1, activation="relu", input_dim=2))
 
-#### Add the output layer that uses a probability activation function
+# Add the output layer that uses a probability activation function
 nn_model.add(tf.keras.layers.Dense(units=1, activation="sigmoid"))
 
-#### Check the structure of the Sequential model
+# Check the structure of the Sequential model
 nn_model.summary()
+```

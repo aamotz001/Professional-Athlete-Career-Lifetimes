@@ -18,7 +18,7 @@ Database ERD:
 Machine Learning Model:
 
 
- __Triangle Roles: Shihab & Peter__
+ __Deliverable 1 Triangle Roles: Shihab & Peter__
 
 * Keep the following questions in mind as the machine learning model is developed:
   * Which model did you choose and why? 

@@ -1,7 +1,6 @@
 # Professional-Athlete-Career-Lifetimes
-## Final Project Repo
 
-# Communication Protocols
+## Communication Protocols
 
 Our group consists of 5 people (Shihab Humayun, Peter Nielson, Matthew DeYoung, Alyssa Allende Motz and Eric Williams). Primary contact will be maintained through Slack and/or Zoom. Additional contact information follows below:
 
@@ -65,7 +64,7 @@ __X Role:__ Eric and Alyssa
       * A net summary function that aggregates all weighted inputs, a weighted summation.
     * The neural network model that we will be creating will most likely not be linearly separable. 
 
-### Building A Basic Neural Network (Sample Code for Later Use)
+## Building A Basic Neural Network (Sample Code for Later Use)
 
 ```
 # Import our dependencies

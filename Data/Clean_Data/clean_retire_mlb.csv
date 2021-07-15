@@ -3,14 +3,12 @@ achteaj01,mlb,G_p,2016,28,3
 adamsla01,mlb,G_of,2018,29,5
 adlemti01,mlb,G_p,2017,30,2
 alcanar01,mlb,G_of,2017,26,4
-alcanar01,mlb,G_if,2017,26,4
 alcanra01,mlb,G_p,2017,25,2
 almonmi01,mlb,G_p,2018,25,4
 alvarda01,mlb,G_p,2017,28,3
 alvarda02,mlb,G_of,2016,28,1
 alvarrj01,mlb,G_p,2015,24,2
 annade01,mlb,G_if,2015,29,2
-annade01,mlb,G_p,2015,29,2
 antoldu01,mlb,G_p,2016,27,0
 aquinja01,mlb,G_p,2017,25,2
 araujel01,mlb,G_p,2016,25,2
@@ -45,7 +43,6 @@ bonilli01,mlb,G_p,2017,27,3
 bormajo01,mlb,G_p,2017,24,0
 boscawi01,mlb,G_p,2016,27,1
 bostich01,mlb,G_of,2018,25,2
-bostich01,mlb,G_if,2018,25,2
 bradlje01,mlb,G_p,2016,26,1
 bradymi01,mlb,G_p,2017,30,1
 brentbr01,mlb,G_of,2016,28,2
@@ -69,12 +66,10 @@ butleed01,mlb,G_p,2018,27,5
 cabrema01,mlb,G_p,2016,23,1
 cabrera01,mlb,G_c,2016,27,2
 calixor01,mlb,G_if,2017,25,3
-calixor01,mlb,G_of,2017,25,3
 callaja01,mlb,G_p,2017,23,1
 campojo01,mlb,G_p,2016,24,0
 campole01,mlb,G_p,2017,30,4
 cardust01,mlb,G_if,2017,30,1
-cardust01,mlb,G_of,2017,30,1
 carrosc02,mlb,G_p,2016,32,3
 castifa01,mlb,G_p,2017,28,1
 castiru01,mlb,G_of,2016,29,2
@@ -211,7 +206,6 @@ jenkity01,mlb,G_p,2016,24,1
 jenseky01,mlb,G_of,2016,28,1
 jimenaj01,mlb,G_c,2017,27,1
 johnsmi04,mlb,G_if,2017,27,3
-johnsmi04,mlb,G_of,2017,27,3
 johnssh01,mlb,G_if,2018,28,1
 jokiser01,mlb,G_p,2014,25,1
 jonesja06,mlb,G_of,2015,27,2
@@ -222,10 +216,8 @@ jungmta01,mlb,G_p,2017,28,2
 kaczmke01,mlb,G_of,2018,27,1
 kellyry01,mlb,G_p,2015,28,1
 kellyty01,mlb,G_if,2018,30,3
-kellyty01,mlb,G_p,2018,30,3
 kennebr02,mlb,G_p,2018,24,1
 kiebosp01,mlb,G_p,2018,27,2
-kiebosp01,mlb,G_c,2018,27,2
 kiekhde01,mlb,G_p,2018,29,3
 kimhy01,mlb,G_of,2017,29,2
 kleinph01,mlb,G_p,2016,27,3
@@ -234,7 +226,6 @@ krehbjo01,mlb,G_p,2018,26,1
 kubitky01,mlb,G_if,2015,25,1
 labouja01,mlb,G_p,2017,23,1
 ladenty01,mlb,G_of,2016,28,2
-ladenty01,mlb,G_if,2016,28,2
 lambjo02,mlb,G_p,2018,28,3
 lawreca01,mlb,G_p,2018,31,2
 lazora01,mlb,G_p,2015,26,1
@@ -298,7 +289,6 @@ morriaj01,mlb,G_p,2016,30,1
 morriak01,mlb,G_p,2018,26,4
 moscojo01,mlb,G_p,2016,25,2
 motteta01,mlb,G_if,2018,29,3
-motteta01,mlb,G_of,2018,29,3
 moyaga01,mlb,G_p,2018,23,2
 moyast01,mlb,G_of,2016,25,3
 mulleco01,mlb,G_p,2016,28,1
@@ -319,9 +309,7 @@ ogandne01,mlb,G_p,2016,27,2
 ogradch01,mlb,G_p,2018,28,1
 ohlmami01,mlb,G_c,2017,27,1
 olivehe01,mlb,G_if,2016,31,1
-olivehe01,mlb,G_of,2016,31,1
 omallsh01,mlb,G_of,2016,29,3
-omallsh01,mlb,G_if,2016,29,3
 orlanpa01,mlb,G_of,2018,33,4
 ortizda02,mlb,G_of,2017,27,1
 overtdi01,mlb,G_p,2017,26,2
@@ -362,7 +350,6 @@ rearich01,mlb,G_p,2015,28,1
 reedch01,mlb,G_p,2015,25,1
 reinhja01,mlb,G_if,2018,26,2
 rendato01,mlb,G_if,2018,27,3
-rendato01,mlb,G_p,2018,27,3
 reyesje01,mlb,G_p,2018,25,1
 riefecj01,mlb,G_p,2015,25,2
 riverca02,mlb,G_if,2014,26,1
@@ -380,7 +367,6 @@ romakja01,mlb,G_of,2015,30,2
 romerst01,mlb,G_of,2016,28,3
 rondojo01,mlb,G_p,2016,28,2
 rosaral01,mlb,G_c,2017,30,2
-rosaral01,mlb,G_p,2017,30,2
 rosinse01,mlb,G_p,2015,27,2
 rowlech01,mlb,G_p,2018,28,1
 ruary01,mlb,G_of,2018,28,5
@@ -391,7 +377,6 @@ santolu01,mlb,G_p,2018,27,1
 sardilu01,mlb,G_if,2018,25,5
 saupowa01,mlb,G_p,2018,28,3
 schimry01,mlb,G_if,2018,30,2
-schimry01,mlb,G_of,2018,30,2
 schlogu01,mlb,G_p,2014,26,1
 schugaj01,mlb,G_p,2017,28,3
 schulbo02,mlb,G_p,2016,31,3
@@ -400,7 +385,6 @@ scribtr01,mlb,G_p,2018,27,1
 scrugxa01,mlb,G_if,2016,29,3
 segedro01,mlb,G_if,2017,29,2
 selskst01,mlb,G_of,2017,28,1
-selskst01,mlb,G_if,2017,28,1
 shackke01,mlb,G_p,2018,29,1
 shaffri01,mlb,G_if,2016,25,2
 shiplbr01,mlb,G_p,2018,26,2
@@ -436,7 +420,6 @@ tartatr01,mlb,G_c,2015,28,1
 taveros01,mlb,G_of,2014,22,1
 taylobe03,mlb,G_p,2018,26,2
 telisto01,mlb,G_c,2018,27,4
-telisto01,mlb,G_if,2018,27,4
 therrje01,mlb,G_p,2017,24,1
 thomaia01,mlb,G_p,2015,28,2
 thompja03,mlb,G_p,2018,24,2
@@ -466,7 +449,6 @@ vinceza01,mlb,G_if,2018,27,1
 wadats01,mlb,G_p,2015,34,2
 wagnety01,mlb,G_p,2016,25,1
 waldrky02,mlb,G_p,2016,25,2
-waldrky02,mlb,G_of,2016,25,2
 walshco02,mlb,G_if,2016,27,1
 washida01,mlb,G_of,2017,27,1
 weissza01,mlb,G_p,2018,26,0
@@ -482,7 +464,6 @@ wimmeal01,mlb,G_p,2017,29,1
 wrighda04,mlb,G_p,2017,26,2
 ynoami01,mlb,G_p,2017,26,2
 ynoara01,mlb,G_if,2016,29,2
-ynoara01,mlb,G_of,2016,29,2
 youngma03,mlb,G_p,2016,26,1
 zastrro01,mlb,G_p,2018,26,2
 zychto01,mlb,G_p,2017,27,2

@@ -1,5 +1,18 @@
 # Professional-Athlete-Career-Lifetimes
 
+## Project Summary
+
+### Background and Motivation
+Our selected topic: we will predict the average career length of National Hockey League professional athletes based upon the position they play. We will implement a neural network learning model to predict career longevity of NHL players based upon four positions: defenseman, left/right wing or center. The analysis will include data from 2004 to the present date. We will use aggregate career data from the National Hockey League as a basis for a neural network model which will predict career length. Our results will be real-world applicable and have interest across disciplines, including sports recruiters, team managers, sports fans and athletes alike
+
+
+
+
+
+
+
+
+
 ## Communication Protocols
 
 Our group consists of 5 people (Shihab Humayun, Peter Nielson, Matthew DeYoung, Alyssa Allende Motz and Eric Williams). Primary contact will be maintained through Slack and/or Zoom. Additional contact information follows below:

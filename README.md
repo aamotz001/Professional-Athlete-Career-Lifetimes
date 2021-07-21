@@ -41,10 +41,9 @@ __Figure 1: SQL Database ERD__
       * A net summary function that aggregates all weighted inputs, a weighted summation.
     * The neural network model that we will be creating will most likely not be linearly separable. 
 
+### Dashboard
 
-
-
-
+Our dashboard has been drafted in tableau: please see slide show for summary of storyboarding and current status
 
 ## Communication Protocols
 

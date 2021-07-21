@@ -22,7 +22,7 @@ __Figure 1: SQL Database ERD__
 ### Description of Neural Network Model
 * Details of Data Preprossesing 
   * Please see slides for more details regarding pre-procesing of data, the actual notebook used to clean data is contained in the main branch as NHL_filtering.ipynb
-* Details of Model:
+* Details of Model: the notebook is functional and included in main>NNM>Neural_Network_Model.ipynb
   * Which model did you choose and why? 
     * Our group will be implementing the neural network learning model in order to predict athletes career longevity from the NBA, NHL, NFL and MLB. 
     * There will be two different types of neural network models. The independent variable for the first model will be when the player first started in the league. The second model will be when the player retired from the specific year. The y-value for both models will be the years played.

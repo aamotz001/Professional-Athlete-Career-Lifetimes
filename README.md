@@ -14,7 +14,7 @@ The following will be used for our project:
 
 ### Description of Neural Network Model
 * Details of Data Preprossesing 
-  * Please see slides for more details regarding pre-procesing of data
+  * Please see slides for more details regarding pre-procesing of data, the actual notebook used to clean data is contained in the main branch as NHL_filtering.ipynb
 * Details of Model:
   * Which model did you choose and why? 
     * Our group will be implementing the neural network learning model in order to predict athletes career longevity from the NBA, NHL, NFL and MLB. 

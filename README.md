@@ -5,6 +5,13 @@
 ### Background and Motivation
 Our selected topic: we will predict the average career length of National Hockey League professional athletes based upon the position they play. We will implement a neural network learning model to predict career longevity of NHL players based upon four positions: defenseman, left/right wing or center. The analysis will include data from 2004 to the present date. We will use aggregate career data from the National Hockey League as a basis for a neural network model which will predict career length. Our results will be real-world applicable and have interest across disciplines, including sports recruiters, team managers, sports fans and athletes alike
 
+### Software and Tools
+The following will be used for our project:
+
+* Python: will be implemented for initial cleaning of data as well as running the machine learning model (a neural network model) 
+* SQL: will be implemented to hold the database as well as join sets appropriately
+* Tableau: will be implemented for dashboard/visualization purposes
+
 ### Description of Neural Network Model
 * Details of Data Preprossesing 
   * Please see slides for more details regarding pre-procesing of data

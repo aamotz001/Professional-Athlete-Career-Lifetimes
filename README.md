@@ -12,6 +12,13 @@ The following will be used for our project:
 * SQL: will be implemented to hold the database as well as join sets appropriately
 * Tableau: will be implemented for dashboard/visualization purposes
 
+### Database
+Our data set is managed through SQL and can be found in main>Data>SQL>schema.sql . A summary of the ERD relationships is shown in the figure below
+
+__Figure 1: SQL Database ERD__
+
+![alt text](https://github.com/aamotz001/Professional-Athlete-Career-Lifetimes/blob/main/Data/SQL/project_ERD.png)
+
 ### Description of Neural Network Model
 * Details of Data Preprossesing 
   * Please see slides for more details regarding pre-procesing of data, the actual notebook used to clean data is contained in the main branch as NHL_filtering.ipynb

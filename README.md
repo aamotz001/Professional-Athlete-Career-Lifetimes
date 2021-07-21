@@ -5,8 +5,25 @@
 ### Background and Motivation
 Our selected topic: we will predict the average career length of National Hockey League professional athletes based upon the position they play. We will implement a neural network learning model to predict career longevity of NHL players based upon four positions: defenseman, left/right wing or center. The analysis will include data from 2004 to the present date. We will use aggregate career data from the National Hockey League as a basis for a neural network model which will predict career length. Our results will be real-world applicable and have interest across disciplines, including sports recruiters, team managers, sports fans and athletes alike
 
+### Neural Network Model
+* Some of the details behind our model:
+  * Which model did you choose and why? 
+    * Our group will be implementing the neural network learning model in order to predict athletes career longevity from the NBA, NHL, NFL and MLB. 
+    * There will be two different types of neural network models. The independent variable for the first model will be when the player first started in the league. The second model will be when the player retired from the specific year. The y-value for both models will be the years played.
 
-
+  * How are you training your model?
+    * We will train the neural network learning model by using 75/25 proportion of the learning/testing data. If the global accuracy of the neural network model is poor, we will use the 20/80 proportion of the learning/testing data.
+  
+  * What is the model's accuracy?
+    * Our goal for this project to achieve a 60% accuracy on our neural network model.
+  
+  * How does this model work?
+    * The neural network model is used to create a classification algorithm that determines if an input belongs in one category versus another. The neural network model, specifically the perceptron model, has four major components:
+      * Input values, typically labelled as x or 𝝌 
+      * A weight coefficient for each input value, typically labelled as w or ⍵
+      * Bias is a constant value added to the input to influence the final decision, typically labelled as w0.
+      * A net summary function that aggregates all weighted inputs, a weighted summation.
+    * The neural network model that we will be creating will most likely not be linearly separable. 
 
 
 
@@ -56,7 +73,7 @@ __Circle Role:__ Matthew
 
 __X Role:__ Eric and Alyssa
 
-## Triangle Roles: Shihab & Peter
+<!-- ## Triangle Roles: Shihab & Peter
 
 * Keep the following questions in mind as the machine learning model is developed:
   * Which model did you choose and why? 
@@ -122,5 +139,5 @@ nn_model.add(tf.keras.layers.Dense(units=1, activation="relu", input_dim=2))
 nn_model.add(tf.keras.layers.Dense(units=1, activation="sigmoid"))
 
 # Check the structure of the Sequential model
-nn_model.summary()
+nn_model.summary() --!>
 ```

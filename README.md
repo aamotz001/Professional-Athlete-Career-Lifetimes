@@ -33,9 +33,10 @@ __Figure 1: SQL Database ERD__
   * Which model did you choose and why? 
     * Our group will be implementing the neural network learning model in order to predict athletes career longevity from the NBA, NHL, NFL and MLB. 
     * There will be two different types of neural network models. The independent variable for the first model will be when the player first started in the league. The second model will be when the player retired from the specific year. The y-value for both models will be the years played.
+    * To increase the accuracy of the model, we have to test and experiment with the loss and optimizers.
 
   * How are you training your model?
-    * We will train the neural network learning model by using 75/25 proportion of the learning/testing data. If the global accuracy of the neural network model is poor, we will use the 20/80 proportion of the learning/testing data.
+    * We will train the neural network learning model by using 75/25 proportion of the learning/testing data. If the global accuracy of the neural network model is poor, we will use the 20/80 proportion of the learning/testing data. We currently using 2 layers for the neural network model.
   
   * What is the model's accuracy?
     * Our goal for this project to achieve a 60% accuracy on our neural network model.
@@ -47,6 +48,9 @@ __Figure 1: SQL Database ERD__
       * Bias is a constant value added to the input to influence the final decision, typically labelled as w0.
       * A net summary function that aggregates all weighted inputs, a weighted summation.
     * The neural network model that we will be creating will most likely not be linearly separable. 
+* Changes in Model Choice between Segment 2 and 3
+  * There was not a change in the model choice between segment 2 and 3. In segment 2, we had made a neural network model only using the NHL clean dataset. However, in segment 3, we have added more variables and included all of the sports. The additional variables are the positions of each sport used by One-Hot Encoder.
+* Current accuracy score: 22%
 
 ### Dashboard
 

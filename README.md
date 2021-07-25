@@ -21,7 +21,14 @@ __Figure 1: SQL Database ERD__
 
 ### Description of Neural Network Model
 * Details of Data Preprossesing 
-  * Please see slides for more details regarding pre-procesing of data, the actual notebook used to clean data is contained in the main branch as NHL_filtering.ipynb
+  * Initially, we imported the raw NBA CSV file. To filter out the NBA data, we dropped the unnecessary columns, such as height, weight, and college. We followed up by checking the CSV for null values and then dropped those rows that had nulls. Then we calculated the career length.
+
+  * For the MLB data preprocessing, we imported the raw MLB CSV file. We first assigned positions to each player. Then we dropped unnecessary columns. Then we calculated the years played for each player in the MLB file. We filtered the players into certain years and assigned the data “MLB” under the sport column.
+
+  * For the NHL data preprocessing, we imported the raw NHL CSV file. We filtered out the players by years for the NHL file and filtered out unnecessary columns. We also filtered out duplicate player names and calculated the years played for each player.
+
+  * For the NFL data preprocessing, we imported the raw NFL CSV file. We first found the start and retirement age of listed players. We filtered out the players by specific time span. Then we found the career length of each player. We dropped the unnecessary columns and filter down to 5 positions.
+
 * Details of Model: the notebook is functional and included in main>NNM>Neural_Network_Model.ipynb
   * Which model did you choose and why? 
     * Our group will be implementing the neural network learning model in order to predict athletes career longevity from the NBA, NHL, NFL and MLB. 

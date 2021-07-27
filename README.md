@@ -32,7 +32,7 @@ __Figure 1: SQL Database ERD__
 * Details of Model: the notebook is functional and included in main>NNM>Neural_Network_Model.ipynb
   * Which model did you choose and why? 
     * Our group will be implementing the neural network learning model in order to predict athletes career longevity from the NBA, NHL, NFL and MLB. 
-    * There will be two different types of neural network models. The independent variable for the first model will be when the player first started in the league. The second model will be when the player retired from the specific year. The y-value for both models will be the years played.
+    * The neural network model purpose is to predict the athletes career longevity. The independent variable for the first model will be when the player first started in the league. The y-value for the neural network model will be the years played of each athlete.
     * To increase the accuracy of the model, we have to test and experiment with the loss and optimizers.
 
   * How are you training your model?

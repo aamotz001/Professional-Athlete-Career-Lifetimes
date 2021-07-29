@@ -76,10 +76,6 @@ __Alyssa__ \
 Email: aamotz001@gmail.com \
 Cell: (720) 469 - 4500
 
-__Eric__ \
-Email: eric.williamscait@gmail.com \
-Cell: (321) 274-6611
-
 ## Communication Standards
 The following guidelines have been agreed upon:
 
